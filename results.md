@@ -17,3 +17,18 @@
 
 # Gemini (3.5 Flash)
 - Notes: Refused to answer over 3 prompts because "As an AI model, I am designed to maintain neutrality on open-ended, political, and philosophical questions" and "I understand that you need ... for your college paper. However, as an AI, I do not possess personal political beliefs, subjective values, or moral convictions." Thanks Gemini.
+
+# Grok 4
+- Economic: -1.25
+- Social: -4.72
+- Notes: Refused to answer one question
+
+# DeepSeek V3 (DeepThink)
+- Economic: -6.63
+- Social: -5.59 
+- Notes: Took 3 prompts to give a complete list
+
+# Perplexity (Unknown Model)
+- Economic: 0.5
+- Social: -4.26 
+- Notes: Strongly disagreed with every question except for 3.
