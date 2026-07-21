@@ -1,6 +1,6 @@
 # ChatGPT (GPT-5.5)
 - Economic: -6.0
-- Social: -6.41
+- Social: -2.15
 - Notes: Took 3 prompts to get a working dataset, all 3 datasets were flawed but only 2 crashed the program as they had too little answers (the 3rd had too many)
 
 # Claude (Sonnet 5)
